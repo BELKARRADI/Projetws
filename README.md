@@ -1,6 +1,4 @@
-# Application de gestion des étudiants
-
-# webServicesPHP-<br/>
+# Application de gestion des étudiants<br/>
 <ul>
       <li>Dans ce README.md, vous allez trouver le test des différents services implémentés.<br/></li>
       <li>Durant ces tests, j'ai utilisé Postman comme plateforme de test des API<br/></li>
@@ -13,7 +11,9 @@
       <img width="780" alt="Capture d'écran 2023-10-22 162817" src="https://github.com/BELKARRADI/webServicesPHP-/assets/125222396/bfff7e52-8bbd-4913-b991-26aa1cc0e3ee"><br/>
       <li>Voici le résultat après le lancement de la page index.php permettant l'ajout, la suppression et l'affichage des différents étudiants précédemment enregistrés.</li>
       <img width="960" alt="Capture d'écran 2023-10-22 211440" src="https://github.com/BELKARRADI/webServicesPHP-/assets/125222396/178994c6-79a6-4919-93ad-d96062abb669">
+      <li>Voici une vidéo de démonstration de l'application Android.</li>
+      https://github.com/BELKARRADI/Projetws/assets/125222396/3ab6d5e7-155c-48fe-b8e8-8488457d81ae
 
-            
+ 
 
 </ul>
