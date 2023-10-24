@@ -1,6 +1,6 @@
 # Application de gestion des étudiants<br/>
 <ul>
-      <li>Dans ce README.md, vous allez trouver le test des différents services implémentés.<br/></li>
+      <li>Vous allez trouver le test des différents services implémentés.<br/></li>
       <li>Durant ces tests, j'ai utilisé Postman comme plateforme de test des API<br/></li>
       <li>Test 1 : Test du service de création d'étudiant<br/></li>
       <li>Afin d'accéder aux données JSON sous forme de variables PHP, j'ai modifié le code afin de tester le service.<br/></li>
